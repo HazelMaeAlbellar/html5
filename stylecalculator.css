@@ -1,0 +1,46 @@
+body{
+    margin-left: 500px;
+    margin-right: 400px;
+    background-color: gray;
+}
+
+form{
+	width: 500px;
+}
+
+div{
+	float:left;
+	margin-bottom: 5px;
+}
+
+div input{
+	width: 249px;
+	height: 25px;
+	margin-right: 5px;
+    text-align: right;
+    cursor: default;
+}
+
+button{
+	height: 90px;
+	width: 95px;
+	background-color: white;
+	text-align: center;
+	margin-top: 5px;
+	padding: 5px;
+	font-size: 30px;
+	border-radius: 5px;
+}
+input[type = "text"] {
+	width: 285px;
+	height: 90px;
+	border-radius: 5px;
+	font-size: 30px;
+	text-align: right;
+}
+h1 {
+	margin-right: 50px;
+	text-align: center;
+	font-family: Rockwell;
+	font-size: 50px;
+}
